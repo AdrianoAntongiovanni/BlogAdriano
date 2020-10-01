@@ -3,8 +3,8 @@ layout: default
 ---
 <ul>
     <header>
-        <img src = "{ '/assets/images/bromelia.jpeg' | relative_url }">
-    </header>
+        <img src = "{{ '/assets/images/bromelia.jpeg' | relative_url }}">
+    </header>"Imagem"
     {% for post in site.posts %}
         <li>
             <a href="{{post.url | relative_url}} "> {{post.title}} </a>

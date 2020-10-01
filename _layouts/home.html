@@ -2,9 +2,12 @@
 layout: default
 ---
 <ul>
+    <h2>
+        Um blog sobre bromélias
+    </h2>
     <header>
-        <img src = "{{ '/assets/images/bromelia.png' | relative_url }}">
-    </header>"Imagem"
+        <img src = "{{ '/assets/images/bromelia.png' | relative_url }}" alt = "Bromelia" width = "640" height = "320">
+    </header> <br>
     {% for post in site.posts %}
         <li>
             <a href="{{post.url | relative_url}} "> {{post.title}} </a>

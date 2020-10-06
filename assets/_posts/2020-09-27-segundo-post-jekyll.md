@@ -7,7 +7,7 @@ categories: jekyll update
 
 # Como regar sua bromélia
 <br>
-Bromélias são plantas que gostam de muita água e de um jeito muito especíco. <br>
+Bromélias são plantas que gostam de muita água e de um jeito muito específico. <br>
 Para uma bromélia de mais ou menos 20cm: <br>
 -> Regue uma vez a cada dois dias com meio copo (100ml) de aguá; <br>
 -> Regue sempre pelo centro da coroa da bromélia, de maneira a encher seus reservatórios externos; <br>
